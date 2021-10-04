@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro|Lato:400,400i,700,700i|Neuton:400i|Nunito+Sans:800,800i|Permanent+Marker&display=swap');
+
+:root {
+  --cheatsheet-font-monospace: 'Source Code Pro', 'Fira Code', 'Consolas', 'Monaco', monospace;
+  --cheatsheet-font-body: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  --cheatsheet-font-header: 'Nunito Sans', apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+:root {
+  --cheatsheet-text: #2f4858;
+  --cheatsheet-text-med: #6d7e8a;
+  --cheatsheet-text-light: #c0c8cc;
+  --cheatsheet-text-lighter: #eaecee;
+  --cheatsheet-color-header: #6d7e8a;
+  --cheatsheet-color-box-h1: #466683;
+  --cheatsheet-washed-blue: #f8fafd;
+  --cheatsheet-washed-green: #ecf8f4;
+  --cheatsheet-washed-yellow: #fefcf4;
+  --cheatsheet-washed-red: #fcf4f5;
+  --cheatsheet-washed-purple: #faf7f9;
+}
