@@ -9,6 +9,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_paged:
     keep_md: true
+    number_sections: false
     mathjax: ~
     template: "../template/paged.html"
     css: ["../template/cheatsheet-variables.css", "../template/cheatsheet.css"]

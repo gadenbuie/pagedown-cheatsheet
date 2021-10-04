@@ -9,11 +9,13 @@ date: "2021-10-04"
 output:
   pagedown::html_paged:
     keep_md: true
+    number_sections: false
     mathjax: ~
     template: "../template/paged.html"
     css: ["../template/cheatsheet-variables.css", "../template/cheatsheet.css"]
     self_contained: true
     section_div: true
+knit: pagedown::chrome_print
 ---
 
 
@@ -42,7 +44,7 @@ output:
 ::: {.box .grid--col-span-2}
 # Heading 1
 
-Ipsum ullamcorper at augue nascetur! Scelerisque platea facilisi sollicitudin feugiat malesuada velit litora proin molestie proin metus! Nibh erat netus sociis mus maecenas fames viverra lacinia semper leo facilisis.
+Amet enim nisi ligula ornare placerat tempor nec est nec nam leo aenean quam! Etiam congue tempus fermentum hendrerit semper urna molestie potenti aenean facilisis. Nascetur sed proin cras netus ullamcorper condimentum. Mattis cum consequat mollis nunc conubia nisl aliquam ante class rutrum. Na rutrum.
 
 Lorem tellus _tellus tortor praesent_ aliquet in `document.getElementById()` neque dictumst. 
 Turpis **ullamcorper proin vivamus** suscipit `obj.map(o => o[1])` quisque ante aliquet. 
@@ -55,19 +57,19 @@ Fermentum `thoughts.reduce()` libero eleifend molestie!
 
 ## Item 1
 
-Sit est convallis turpis ultrices dis urna quisque. Nulla dui tellus fringilla est torquent fringilla condimentum litora class.
+Adipiscing scelerisque tempus habitant neque neque diam bibendum. Nullam dictumst tellus imperdiet bibendum diam feugiat augue pretium malesuada consequat aenean? Scelerisque egestas sem sociosqu enim sagittis morbi at nulla habitasse dapibus. Eleifend curae tristique mauris volutpat scelerisque arcu urna fusce magna cum sodales varius praesent. Sociis eros et inceptos facilisi elementum laoreet blandit dictumst. Himenaeos curae ridiculus suscipit gravida volutpat per proin tristique ultrices nullam natoque justo. Duis turpis etiam risus tempus libero netus elementum sapien.
 
 ## Item 2
 
-Adipiscing nisl pretium libero lectus in augue?
+Consectetur consequat odio magnis viverra cum curabitur montes porta fringilla feugiat velit.
 
 ### Sub Item 1
 
-Amet fringilla morbi fusce volutpat gravida vulputate proin dignissim euismod netus. Fermentum nisi pretium quisque aliquam magna a pretium hac integer volutpat.
+Lorem sed netus nisl ligula ultrices suspendisse porta euismod? Placerat hendrerit varius iaculis neque tellus proin erat augue tristique class nascetur auctor!
 
 ### Sub Item 2
 
-Consectetur nibh commodo nec montes nascetur netus justo iaculis venenatis. Facilisis cras scelerisque eros purus condimentum parturient parturient!
+Consectetur curae dis torquent sodales ut orci suscipit! Per torquent odio sodales gravida nibh pharetra sodales vivamus tincidunt sodales id varius condimentum cubilia.
 :::
 
 ::: {.box .box--bordered .box--border-dashed}
@@ -97,7 +99,7 @@ Consectetur nibh commodo nec montes nascetur netus justo iaculis venenatis. Faci
 
 ## Sub Title 1
 
-Sit nam vestibulum praesent id rutrum pellentesque ante. Quis nulla habitasse senectus potenti at vehicula dui at accumsan felis fames. Fermentum dignissim lacinia nostra cras suspendisse enim sagittis aliquam nisl mauris. Integer volutpat imperdiet sociosqu vestibulum pretium ante! Velit ultrices etiam scelerisque ultricies molestie gravida facilisi ad gravida etiam hac proin molestie.
+Consectetur et sagittis praesent nec cursus odio arcu feugiat penatibus. Neque fringilla eu pretium magna sodales tellus condimentum primis dapibus? Sed primis neque massa conubia nulla varius senectus. Turpis sociosqu rhoncus interdum taciti fringilla ut at hendrerit dictumst? Mus posuere sagittis conubia eget suspendisse dictumst fermentum habitasse. Hac eget faucibus ante aenean tempor erat. Euismod mi commodo arcu interdum scelerisque fermentum natoque malesuada ultricies massa ante integer vivamus faucibus vulputate primis id netus taciti malesuada nibh.
 
 $$e = mc^2$$
 
