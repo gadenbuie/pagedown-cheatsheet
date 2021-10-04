@@ -17,6 +17,7 @@ output:
     # change to true for a self-contained document, but it'll be a litte slower for Pandoc to render
     self_contained: false
     section_div: true
+knit: pagedown::chrome_print
 ---
 
 ```{r setup, include=FALSE}
